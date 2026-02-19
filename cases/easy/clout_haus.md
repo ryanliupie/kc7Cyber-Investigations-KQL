@@ -11,5 +11,5 @@
     - The senders domain does not look legitimate. 
     - Generic greetings such as "Dear customer"
 
-- She posts Q&A stories that allow attackers to send her personal questions such as "Where do you live?", "What your pets name?", "What is your mothers name?". This can be used by attackers when trying to reset an email for example. It may require security questions in regards to those answers. 
+- She posts Q&A stories that allow attackers to send her personal questions such as "Where do you live?", "What your pets name?", "What is your mothers name?". This can be used by attackers when trying to reset an email for example, in which it may require security questions in regards to those answers. 
     
