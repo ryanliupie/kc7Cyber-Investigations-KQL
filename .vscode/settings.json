@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.kql": "kusto"
+  },
+  "cSpell.words": [
+    "SIEM", 
+    "behaviour"
+  ]
+}
+
