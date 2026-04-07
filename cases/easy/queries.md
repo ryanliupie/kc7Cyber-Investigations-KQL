@@ -40,7 +40,7 @@ Email
 | order by count_ desc // this gets how many times the recipient receives emails
 ```
 
-```kql
+```KQL
 Employees
 | take 10 // this returns 10 random tables in the Employees table
 
@@ -49,6 +49,8 @@ Employees
 | where role == "xyz" //returns specific employee
 
 | where role contains "xyz" //if you only specific word like instead of "security analyst", you could write "security" and find that role
+
+| project email_addr, hire_date // gives us values for specified fields
 ```
 <hr>
 
