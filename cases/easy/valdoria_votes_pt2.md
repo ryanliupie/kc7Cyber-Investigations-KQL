@@ -11,7 +11,7 @@ A hacking group claims to have hacked into the voting poll machines that people 
 
 - The legitimate website for the Valdoria Elections Board is "valdoriavotes.gov"
 
-- While they were doing reconnaissance, they are specirically interested in "new hires", the prevention measure they are interested in is "election interference", the machines they are targeting are voting machines, and they were trying to get its "technical manual". 
+- While they were doing reconnaissance, they are specifically interested in "new hires", the prevention measure they are interested in is "election interference", the machines they are targeting are voting machines, and they were trying to get its "technical manual". 
 
 
 #### Suspicious  
@@ -23,3 +23,13 @@ Anderson Snooper clicked on a phishing email and entered his username and passwo
 - email: anderson_snooper@valdoriavotes.gov
 
 Now that the threat actor has gained access to his email, he ask Barry Schmelly on ways to access it since he is the boss of Anderson. 
+
+The threat actor seems to use chatGPT to ask about the Election Commissioner. 
+
+- ELection Commissioner: Array Bobama 
+- ip: 10.10.0.13
+- email: arrack_bobama@valdoriavotes.gov
+- hostname: QDPG-DESKTOP
+- MFA: False
+
+The threat actor was able to reset the password and log into his account. This happened at 2024-10-16T00:00:00.000Z, and the ip address used was 214.85.104.248
